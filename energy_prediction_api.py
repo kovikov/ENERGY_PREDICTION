@@ -51,3 +51,4 @@ def predict_energy(data: EnergyInput):
     scaled_features = scaler.transform(features)
     prediction = model.predict(scaled_features)
     return {"predicted_energy_output_MWh": round(float(prediction[0]), 2)}
+
