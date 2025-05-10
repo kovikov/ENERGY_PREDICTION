@@ -1,0 +1,2 @@
+Capacity_Utilization,Temperature_C,Cloud_Cover,Wind_Speed,Is_Peak_Hour,Is_Weekend,Site_Avg_Output,Site_Temp_Deviation,Temp_Wind_Index,Clear_Sky_Index,Solar_Potential,Utilization_Efficiency,Prev_Energy,Rolling_Mean_3,Rolling_Std_3,Predicted_Output_MWh
+45.0,26.5,22.5,6.8,1,0,52.3,3.2,180.2,0.77,20.45,1.05,51.1,50.9,3.7,61.74
